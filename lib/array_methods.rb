@@ -1,5 +1,6 @@
 def find_element_index(array, value_to_find)
-
+Disney_Movies = ["frozen", "brave", "Brother bear", "wreck it ralph"]
+find_element_index(3)
 end
 
 def find_max_value(array)
